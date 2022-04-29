@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'AgencyFB-Bold' !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+  
+  /* @font-face {
+    font-family: 'AgencyFB-Bold';
+    src: url('/src/assets/Fonts/AgencyFBBold.ttf') format('truetype');
+  } */
