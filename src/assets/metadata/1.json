@@ -1,0 +1,15 @@
+{
+  "name": "Elephant #1",
+  "description": "Elephant is test project that generate 10 NFTs based on ERC 721A",
+  "image": "https://ipfs.io/ipfs/QmVsXALkdkDQLWu53g9533ezDvRidfYZWUrx3uxbUPvSft/1.jpg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue "
+    },
+    {
+      "trait_type": "Body",
+      "value": "No Wings "
+    }
+  ]
+}
